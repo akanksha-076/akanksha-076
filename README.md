@@ -17,8 +17,8 @@
 class Akanksha:
     name       = "Akanksha Kumari"
     role       = "Aspiring Frontend Developer & Python Enthusiast"
-    education  = "B.Tech / BCA / BSc (CS)"         # 🔁 Update this
-    location   = "India 🇮🇳"
+    education  = "B.Tech CSE"        
+    location   = "India"
     looking_for = "Internships & Entry-Level Opportunities"
 
     skills     = {
@@ -51,7 +51,6 @@ class Akanksha:
 
 ## 🌟 Featured Projects
 
-> 🔁 *Replace the placeholders below with your actual projects!*
 
 | 🚀 Project | 📝 Description | 🛠️ Tech Used | 🔗 Link |
 |-----------|---------------|-------------|--------|
@@ -93,7 +92,7 @@ class Akanksha:
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-ID">
+  <a href="www.linkedin.com/in/akanksha-kumarihere">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
