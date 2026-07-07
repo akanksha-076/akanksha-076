@@ -47,16 +47,6 @@ class Akanksha:
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
----
-
-## 🌟 Featured Projects
-
-
-| 🚀 Project | 📝 Description | 🛠️ Tech Used | 🔗 Link |
-|-----------|---------------|-------------|--------|
-| **Project Name 1** | Short description of what this project does | React, CSS | [View →](https://github.com/akanksha-076) |
-| **Project Name 2** | Short description of what this project does | Python, MySQL | [View →](https://github.com/akanksha-076) |
-| **Project Name 3** | Short description of what this project does | HTML, JS | [View →](https://github.com/akanksha-076) |
 
 ---
 
