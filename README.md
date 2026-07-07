@@ -70,19 +70,8 @@ class Akanksha:
 
 ## 🤝 Connect With Me
 
-<p align="center">
-  <a href="www.linkedin.com/in/akanksha-kumarihere">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https:www.linkedin.com/in/akanksha-kumarihere">
-    <img src="https://img.shields.io/badge/Portfolio-F75C7E?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/akanksha-076">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+LINKDIN : www.linkedin.com/in/akanksha-kumarihere
+EMAIL : akankshakumari90816@gmail.com
 
 ---
 
