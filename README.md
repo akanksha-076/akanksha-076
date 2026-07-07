@@ -5,9 +5,9 @@
 ```python
 class Akanksha:
     name       = "Akanksha Kumari"
-    role       = "Aspiring Frontend Developer & Python Enthusiast"
+    role       = "Aspiring Full Stack Developer & Python Enthusiast"
     education  = "B.Tech CSE"        
-    location   = "India"
+    location   = "Haryana, India"
     looking_for = "Internships & Entry-Level Opportunities"
 
     skills     = {
