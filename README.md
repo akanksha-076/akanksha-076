@@ -60,27 +60,6 @@ class Akanksha:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akanksha-076&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akanksha-076&theme=radical&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akanksha-076&layout=compact&theme=radical&hide_border=true" width="48%" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akanksha-076&theme=radical&no-frame=true&row=1&column=6" />
-</p>
-
----
-
 ## 📈 Contribution Graph
 
 <p align="center">
@@ -96,7 +75,7 @@ class Akanksha:
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://YOUR-PORTFOLIO-URL.com">
+  <a href="https:www.linkedin.com/in/akanksha-kumarihere">
     <img src="https://img.shields.io/badge/Portfolio-F75C7E?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
   &nbsp;
