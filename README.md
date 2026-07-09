@@ -4,7 +4,7 @@
 
 ### Aspiring Full Stack Developer & Python Enthusiast
 
-![Profile views](https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&color=44475a&style=flat-square&label=Profile+Views)
+![Profile views](https://komarev.com/ghpvc/?username=akanksha-076&color=44475a&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -67,15 +67,13 @@ I'm currently looking for **internships and entry-level opportunities** where I 
 
 <br>
 
+
 ## 📊 GitHub Stats
-
+ 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=default&hide_border=true&title_color=44475a&icon_color=6272a4&text_color=333333&bg_color=ffffff" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=default&hide_border=true&background=ffffff&ring=6272a4&fire=6272a4&currStreakLabel=44475a" width="48%" />
-
+<img src="https://github-readme-stats.vercel.app/api?username=akanksha-076&show_icons=true&theme=default&hide_border=true&title_color=44475a&icon_color=6272a4&text_color=333333&bg_color=ffffff" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=akanksha-076&theme=default&hide_border=true&background=ffffff&ring=6272a4&fire=6272a4&currStreakLabel=44475a" width="48%" />
 </div>
-
 <br>
 
 ## 🤝 Connect With Me
