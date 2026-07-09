@@ -1,63 +1,93 @@
-## Hi there 👋
+<div align="center">
 
-## 🚀 About Me
+# Hi, I'm Akanksha Kumari 👋
 
-```python
-class Akanksha:
-    name       = "Akanksha Kumari"
-    role       = "Aspiring Full Stack Developer & Python Enthusiast"
-    education  = "B.Tech CSE"        
-    location   = "Haryana, India"
-    looking_for = "Internships & Entry-Level Opportunities"
+### Aspiring Full Stack Developer & Python Enthusiast
 
-    skills     = {
-        "Frontend"  : ["React", "HTML5", "CSS3", "JavaScript"],
-        "Backend"   : ["Python"],
-        "Database"  : ["MySQL"],
-        "Tools"     : ["Git", "GitHub", "VS Code"]
-    }
+![Profile views](https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&color=44475a&style=flat-square&label=Profile+Views)
 
-    fun_fact   = "I debug with coffee ☕ and determination 💪"
-```
+</div>
 
----
+<br>
+
+## 📌 About Me
+
+I'm a **frontend-leaning developer** currently pursuing my **B.Tech / BCA / BSc (CS)**, based in **India 🇮🇳**. I enjoy building clean, functional interfaces and am steadily strengthening my backend and database fundamentals with Python and MySQL.
+
+I'm currently looking for **internships and entry-level opportunities** where I can contribute, learn, and grow as a developer.
+
+- 🎓 **Education:** B.Tech 
+- 🌱 **Currently strengthening:** NodeJS, React, JavaScript, java,and Python
+- 🎯 **Looking for:** Internships & Entry-Level Opportunities
+- 💬 **Ask me about:** Frontend basics, HTML/CSS/JS/React, or Python fundamentals
+
+<br>
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-</p>
+**Frontend**
 
+![React](https://img.shields.io/badge/React-3b4252?style=for-the-badge&logo=react&logoColor=61dafb)
+![HTML5](https://img.shields.io/badge/HTML5-3b4252?style=for-the-badge&logo=html5&logoColor=e34f26)
+![CSS3](https://img.shields.io/badge/CSS3-3b4252?style=for-the-badge&logo=css3&logoColor=264de4)
+![JavaScript](https://img.shields.io/badge/JavaScript-3b4252?style=for-the-badge&logo=javascript&logoColor=f7df1e)
 
----
+**Backend**
 
-## 📈 Contribution Graph
+![Python](https://img.shields.io/badge/Python-3b4252?style=for-the-badge&logo=python&logoColor=3776ab)
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akanksha-076&theme=redical&hide_border=true" />
-</p>
+**Database**
 
----
+![MySQL](https://img.shields.io/badge/MySQL-3b4252?style=for-the-badge&logo=mysql&logoColor=4479a1)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-3b4252?style=for-the-badge&logo=git&logoColor=f05032)
+![GitHub](https://img.shields.io/badge/GitHub-3b4252?style=for-the-badge&logo=github&logoColor=ffffff)
+![VS Code](https://img.shields.io/badge/VS%20Code-3b4252?style=for-the-badge&logo=visualstudiocode&logoColor=007acc)
+
+<br>
+
+## 🚀 Current Focus
+
+- 🔨 Building solid frontend fundamentals with React
+- 🐍 Practicing Python for backend logic and problem-solving
+- 🗄️ Learning database design with MySQL
+- 📚 Working on real, portfolio-worthy projects
+- 🤝 Preparing for internship applications
+
+<br>
+
+## 📂 Projects
+
+<!-- 🔁 Add your project names, descriptions, and links here -->
+- **Netflix Clone** —  A responsive Netflix UI clone built with HTML, CSS & JavaScript, replicating movie browsing and layout design.
+- **GitHub Analyzer** — A React-based tool that fetches and analyzes GitHub profile/repo data to surface stats and insights.
+- More projects coming soon...
+
+<br>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=default&hide_border=true&title_color=44475a&icon_color=6272a4&text_color=333333&bg_color=ffffff" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=default&hide_border=true&background=ffffff&ring=6272a4&fire=6272a4&currStreakLabel=44475a" width="48%" />
+
+</div>
+
+<br>
 
 ## 🤝 Connect With Me
 
-LINKDIN : www.linkedin.com/in/akanksha-kumarihere
-EMAIL : akankshakumari90816@gmail.com
+- 💼 **LinkedIn:** www.linkedin.com/in/akanksha-kumarihere
+- 📧 **Email:** akankshakumari90816@gmail.com
+- 🐙 **GitHub:** 8https://github.com/akanksha-076
 
----
+<br>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F75C7E&height=100&section=footer"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <b>⭐ Star my repos if you find them useful — it keeps me motivated! 💖</b>
-</p>
+*"Learning by building, not just watching tutorials."*
+
+</div>
