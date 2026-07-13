@@ -80,7 +80,7 @@ I'm currently looking for **internships and entry-level opportunities** where I 
 
 - 💼 **LinkedIn:** www.linkedin.com/in/akanksha-kumarihere
 - 📧 **Email:** akankshakumari90816@gmail.com
-- 🐙 **GitHub:** 8https://github.com/akanksha-076
+- 🐙 **GitHub:** https://github.com/akanksha-076
 
 <br>
 
