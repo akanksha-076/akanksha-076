@@ -12,7 +12,7 @@
 
 ## 📌 About Me
 
-I'm a **frontend-leaning developer** currently pursuing my **B.Tech **, based in **India 🇮🇳**. I enjoy building clean, functional interfaces and am steadily strengthening my backend and database fundamentals with Python and MySQL.
+I'm a **frontend-leaning developer** currently pursuing my **B.Tech**, based in **India 🇮🇳**. I enjoy building clean, functional interfaces and am steadily strengthening my backend and database fundamentals with Python and MySQL.
 
 I'm currently looking for **internships and entry-level opportunities** where I can contribute, learn, and grow as a developer.
 
