@@ -64,6 +64,7 @@ I'm currently looking for **internships and entry-level opportunities** where I 
 - **Netflix Clone** —  A responsive Netflix UI clone built with HTML, CSS & JavaScript, replicating movie browsing and layout design.
 - **GitHub Analyzer** — A React-based tool that fetches and analyzes GitHub profile/repo data to surface stats and insights.
 - **AI-Powered Full-Stack Chatbot** — A React/Vite chatbot deployed on Netlify with a Flask backend on Render, powered by the Gemini API.
+- **Gesture-controlled Flappy Bird** — An interactive physics-based game controlled via real-time hand tracking using MediaPipe and OpenCV.
 - More projects coming soon...
 
 <br>
