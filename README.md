@@ -35,6 +35,7 @@ I'm currently looking for **internships and entry-level opportunities** where I 
 **Backend**
 
 ![Python](https://img.shields.io/badge/Python-3b4252?style=for-the-badge&logo=python&logoColor=3776ab)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 **Database**
 
