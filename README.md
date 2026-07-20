@@ -2,7 +2,7 @@
 
 # Hi, I'm Akanksha Kumari 👋
 
-### Aspiring Full Stack Developer & Python Enthusiast
+### Aspiring Full Stack Developer & Python Enthusiast 
 
 ![Profile views](https://komarev.com/ghpvc/?username=akanksha-076&color=44475a&style=flat-square&label=Profile+Views)
 
