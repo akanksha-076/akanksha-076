@@ -19,7 +19,7 @@ I'm currently looking for **internships and entry-level opportunities** where I 
 - 🎓 **Education:** B.Tech 
 - 🌱 **Currently strengthening:** NodeJS, React, JavaScript, java and Python
 - 🎯 **Looking for:** Internships & Entry-Level Opportunities
-- 💬 **Ask me about:** Frontend basics, HTML/CSS/JS/React, or Python fundamentals
+- 💬 **Ask me about:** Frontend basics, HTML/CSS/JS/React/NodeJS, Java or Python fundamentals
 
 <br>
 
