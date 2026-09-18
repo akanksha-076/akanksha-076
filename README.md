@@ -16,10 +16,10 @@ I'm a **frontend-leaning developer** currently pursuing my **B.Tech**, based in 
 
 I'm currently looking for **internships and entry-level opportunities** where I can contribute, learn, and grow as a developer.
 
-- 🎓 **Education:** B.Tech 
-- 🌱 **Currently strengthening:** NodeJS, Express, React, JavaScript, java and Python
-- 🎯 **Looking for:** Internships & Entry-Level Opportunities
-- 💬 **Ask me about:** HTML/CSS/JS/React/NodeJS, Java or Python fundamentals
+- 🎓 **Education :** B.Tech 
+- 🌱 **Currently strengthening :** NodeJS, Express, React, JavaScript, java and Python
+- 🎯 **Looking for :** Internships & Entry-Level Opportunities
+- 💬 **Ask me about :** HTML/CSS/JS/React/NodeJS, Java or Python fundamentals
 
 <br>
 
